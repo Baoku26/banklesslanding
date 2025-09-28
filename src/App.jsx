@@ -117,7 +117,7 @@ export default function BanklessLanding() {
             className="text-[18px] md:text-2xl mb-12 text-gray-300 max-w-3xl mx-auto font-light"
             style={{ fontFamily: "'Inter',sans-serif" }}
           >
-            The viral memecoin paired on Plasma, redefining what it means to go
+            The viral memecoin on Plasma, redefining what it means to go
             BANKLESS in the age of Web3.
           </p>
 
@@ -164,7 +164,7 @@ export default function BanklessLanding() {
                 Why Bankless?
               </h2>
               <p
-                className="text-[18px] text-center md:text-left text-gray-300 leading-relaxed mb-8"
+                className="text-[18px] text-center md:text-left text-gray-300 leading-relaxed mb-3"
                 style={{ fontFamily: "'Inter',sans-serif" }}
               >
                 The whole point of stablecoins — and one of Plasma's aims — is
