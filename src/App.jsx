@@ -156,7 +156,7 @@ export default function BanklessLanding() {
       <section className="py-20 md:px-10">
         <div className="">
           <div className="flex flex-col md:flex-row items-center justify-center gap-10">
-            <div className="w-[80%] md:w-[60%]">
+            <div className="w-[90%] md:w-[60%]">
               <h2
                 className="text-4xl text-center md:text-left md:text-5xl font-bold mb-6 text-[#00FFC6]"
                 style={{ fontFamily: "'Orbitron',sans-serif" }}
