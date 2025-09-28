@@ -202,7 +202,7 @@ export default function BanklessLanding() {
             className="text-[18px] text-gray-300 mb-12"
             style={{ fontFamily: "'Inter',sans-serif" }}
           >
-            Over 300+ members are already discussing and building the Bankless
+            Over 450+ members are already discussing and building the Bankless
             future on X. Be part of the viral wave.
           </p>
 
